@@ -4,7 +4,7 @@
 
 - 📫 Connect with me on  <a href="https://www.linkedin.com/in/ayan-s-57850a19b/">LinkedIn</a>
 
-- Skills:
+
 
 <a> <img width ='60px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png'> </a>
 <a> <img width ='60px' src ='https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png?width=256&s=3e825b7205c7f497d4695028e358d26ee359f84b'> </a>

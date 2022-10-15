@@ -1,6 +1,6 @@
 - 👋 Hi fellow Developers, I’m Ayan!
  
-- &#128188; I’m currently working as a Data Scientist at the Analytics Consulting firm, Polestar LLP. 
+- &#128188; I’m currently working as a Data Scientist at the Analytics Consulting firm <a href='https://www.polestarllp.com/'> Polestar LLP </a>
 
 - &#128187; Currently trying to explore the world of Big Data.
 

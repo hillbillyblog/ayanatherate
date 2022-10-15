@@ -18,7 +18,7 @@
 <a> <img width ='60px' src='https://blog.dataiku.com/hubfs/Dataiku-Logo.jpg'> </a>
 
 <a> <img width ='60px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png'> </a>
-<a> <img width ='60px' src ='https://mpng.subpng.com/20181110/vfu/kisspng-power-bi-business-intelligence-microsoft-azure-mic-office-365-d-nieuwe-cloud-omgeving-dynamics-on-5be7b364c21ac6.3427992715419113967951.jpg'> </a>
+<a> <img width ='60px' src ='https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo-700x394.png'> </a>
 
 
 <!---

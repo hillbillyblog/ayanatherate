@@ -1,8 +1,11 @@
-- 👋 Hi, I’m Ayan!
+- 👋 Hi fellow Developers, I’m Ayan!
  
 - &#128188; I’m currently working as a Data Scientist at the Analytics Consulting firm, Polestar LLP. 
 
+- &#128187; Currently trying to explore Hadoop, Spark and the associated Big Data Technologies.
+
 - 📫 Connect with me on  <a href="https://www.linkedin.com/in/ayan-s-57850a19b/">LinkedIn</a>
+
 
 <br>
 <br>

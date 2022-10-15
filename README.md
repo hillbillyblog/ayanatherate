@@ -2,12 +2,9 @@
  
 - &#128188; I’m currently working as a Data Scientist at the Analytics Consulting firm, Polestar LLP. 
 
-- &#128187; Currently trying to explore the world of Big Data, more.
+- &#128187; Currently trying to explore the world of Big Data.
 
 - 📫 Connect with me on  <a href="https://www.linkedin.com/in/ayan-s-57850a19b/">LinkedIn</a>
-
-
-<br>
 <br>
 
 

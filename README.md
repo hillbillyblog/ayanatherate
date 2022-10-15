@@ -19,9 +19,9 @@
 <a> <img width ='30px' src ='https://res.cloudinary.com/apideck/image/upload/v1614063907/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/abxnujenvxm9lx0orn4k.png'> </a>
 <a> <img width ='30px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/1200px-SCIPY_2.svg.png'> </a>
 <a> <img width ='60px' src ='https://i0.wp.com/cdn.analyticsvidhya.com/wp-content/uploads/2021/04/66542EvalML.jpg?resize=350%2C200&ssl=1'> </a>
-<a> <img width ='30px' src='https://blog.dataiku.com/hubfs/Dataiku-Logo.jpg'> </a>
-<a> <img width ='30px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png'> </a>
-<a> <img width ='30px' src ='https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo-700x394.png'> </a>
+<a> <img width ='60px' src='https://blog.dataiku.com/hubfs/Dataiku-Logo.jpg'> </a>
+<a> <img width ='60px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png'> </a>
+<a> <img width ='60px' src ='https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo-700x394.png'> </a>
 
 
 <!---

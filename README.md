@@ -14,10 +14,9 @@
 <a> <img width ='60px' src ='https://cdn-images-1.medium.com/max/1200/1*iDQvKoz7gGHc6YXqvqWWZQ.png'> </a>
 <a> <img width ='60px' src ='https://res.cloudinary.com/apideck/image/upload/v1614063907/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/abxnujenvxm9lx0orn4k.png'> </a>
 <a> <img width ='60px' src ='https://www.idalko.com/wp-content/uploads/2018/07/word-image.png'> </a>
-<a> <img width ='60px' src ='https://banner2.cleanpng.com/20180515/zxe/kisspng-jenkins-docker-continuous-delivery-installation-so-5afa799e222331.1197773615263645741398.jpg'> </a>
+
 <a> <img width ='60px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png'> </a>
 <a> <img width ='60px' src ='https://mpng.subpng.com/20181110/vfu/kisspng-power-bi-business-intelligence-microsoft-azure-mic-office-365-d-nieuwe-cloud-omgeving-dynamics-on-5be7b364c21ac6.3427992715419113967951.jpg'> </a>
-<a> <img width ='60px' src ='https://www.pngfind.com/pngs/m/38-383271_excel-logo-png-microsoft-excel-logo-transparent-png.png'> </a>
 
 
 <!---

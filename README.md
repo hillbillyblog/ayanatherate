@@ -1,4 +1,4 @@
-- 👋 Hi fellow Developers, I’m Ayan!
+- 👋 Hi. I’m Ayan!
  
 - &#128188; I'm currently working as a Data Scientist at the Analytics Consulting firm,<a href='https://www.polestarllp.com/'> Polestar LLP </a>
 

@@ -5,8 +5,6 @@
 - &#128187; Currently trying to explore the world of Big Data, more.
 
 - 📫 Connect with me on  <a href="https://www.linkedin.com/in/ayan-s-57850a19b/">LinkedIn</a>
-- 🤹 Skills/Tools/Technologies in brief: <br> <br> Programming (Python/C), Machine Learning/Deep Learning, Applied Statistics, SQL (MySQL,Postgre, Oracle), MS Power BI, Web Development (HTML/CSS/JS), Cloud Basics (AWS, Heroku, Streamlit, Datiku DSS)
-
 
 
 

@@ -4,7 +4,7 @@
 
 - &#128187; Currently trying to explore the world of Big Data, more.
 
-- 📫 Connect with me on  <a href="https://www.linkedin.com/in/ayan-s-57850a19b/">LinkedIn</a>
+- 📫 Connect with me on  <a href="https://www.linkedin.com/in/ayan-s-57850a19b/">LinkedIn</a> or checkout some of my work, here.
 
 
 

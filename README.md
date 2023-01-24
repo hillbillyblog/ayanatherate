@@ -2,7 +2,7 @@
  
 - I'm currently working as a Data Scientist at the Analytics Consulting firm,<a href='https://www.polestarllp.com/'> Polestar LLP </a>
 
-- Interests (in no order): Applied Statistics/Programming, Computational Linguistics, Sports & Art.
+- Interests (in no order): Applied Statistics/Programming, Computational Linguistics, Sports & Aesthetics.
 - If you are into Hills & Landscapes, here's also my <a href="https://hillbillyblog.github.io/">Photoblog Page.</a>
 
 

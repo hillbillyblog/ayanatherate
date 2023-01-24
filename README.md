@@ -6,7 +6,7 @@
 - If you are into these, here's also my <a href="https://hillbillyblog.github.io/">Photoblog Page.</a>
 
 
-- Connect with me on  <a href="https://www.linkedin.com/in/ayan-s-57850a19b/">LinkedIn</a>. Reach out to me: ayanworkmail02@gmail.com
+- Connect with me on  <a href="https://www.linkedin.com/in/ayan-s-57850a19b/"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"></a>. Reach out to me: ayanworkmail02@gmail.com
 
 
 

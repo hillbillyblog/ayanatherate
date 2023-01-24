@@ -1,4 +1,4 @@
-👋 Hi. I’m <h3 style='color:red;'>AYan</h3>
+👋 Hi. I’m <p style='color:red;'>Ayan</p>
  
 - I'm currently working as a Data Scientist at the Analytics Consulting firm,<a href='https://www.polestarllp.com/'> Polestar LLP </a>
 

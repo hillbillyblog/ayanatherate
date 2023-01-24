@@ -5,7 +5,7 @@
 - Interests: Applied Statistics/Programming, Computational Linguistics, Sports & Art.
 
 
-- 📫 Connect with me on  <a href="https://www.linkedin.com/in/ayan-s-57850a19b/">LinkedIn</a> 
+- 📫 Connect with me on  <a href="https://www.linkedin.com/in/ayan-s-57850a19b/">LinkedIn</a>. Reach out to me: ayanworkmail02@gmail.com
 
 
 

@@ -1,5 +1,6 @@
 <hr>
 👋 Hi. I’m Ayan!
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
  
  - I'm currently working as a Data Scientist at the Analytics Consulting firm,<a href='https://www.polestarllp.com/'> Polestar LLP </a>
 

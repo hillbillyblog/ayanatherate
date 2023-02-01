@@ -1,6 +1,5 @@
 <hr>
-👋 Hi. I’m Ayan! <br>
-![](https://komarev.com/ghpvc/?username=ayanatherate&color=green)
+👋 Hi. I’m Ayan! 
  
  - I'm currently working as a Data Scientist at the Analytics Consulting firm,<a href='https://www.polestarllp.com/'> Polestar LLP </a>
 
@@ -15,7 +14,7 @@
 <hr>
 
 
-
+![](https://komarev.com/ghpvc/?username=ayanatherate&color=green)
 
 
 <!---

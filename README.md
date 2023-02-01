@@ -14,7 +14,6 @@
 <hr>
 
 
-![](https://komarev.com/ghpvc/?username=ayanatherate&color=green)
 
 
 <!---

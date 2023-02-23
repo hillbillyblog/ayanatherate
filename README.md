@@ -5,7 +5,6 @@
 
  - Interests: Applied Statistics/ML, Computational Linguistics, Sports & Visual Aesthetics.
 
- - If you are into Hills & Landscapes, here's also my <a href="https://hillbillyblog.github.io/">Photoblog Page.</a>
 
 
  - Connect with me on: <br>

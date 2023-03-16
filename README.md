@@ -3,7 +3,7 @@
  
  - I'm currently working as a Data Scientist at the Analytics Consulting firm,<a href='https://www.polestarllp.com/'> Polestar LLP </a>
 
- - Interests: Applied Statistics/ML, Computational Linguistics, Sports & Visual Aesthetics.
+ - Academic Interests: Data-oriented Problem Solving, Applied Stats/ML, Programming and Simulations.
 
 
 

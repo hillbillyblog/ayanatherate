@@ -1,7 +1,7 @@
 <hr>
 👋 Hi. I’m Ayan! 
  
- - I'm currently working as a Data Scientist at the Analytics Consulting firm,<a href='https://www.polestarllp.com/'> Polestar LLP </a>
+ - I'm currently working as a Data Scientist at the Analytics Consulting firm,<a href='https://www.linkedin.com/company/polestarsolutions&services/mycompany/'> Polestar LLP </a>
 
  - Work Interests: Data-oriented Problem Solving, Applied Stats/ML, Programming and Simulations.
 
